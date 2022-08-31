@@ -9,7 +9,7 @@ export default defineConfig({
   description: '基于 Midway、React 18 组装的 SSR 框架，简单、易学易用、方便扩展、集成Midway框架，您一直想要的React SSR 框架。',
   head: [
     ['link', {rel: 'icon', href: '/favicon.ico'}],
-    ['script', {type: 'text/javascript', src: 'https://hm.baidu.com/hm.js?0912c56637b69465245b46143a6ea33b'}]
+    ['script', {type: 'text/javascript', src: 'https://hm.baidu.com/hm.js?5055818466497b4989ecae715296112c'}]
   ],
   markdown: {
     theme: 'material-palenight',
