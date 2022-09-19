@@ -91,11 +91,11 @@ export default defineConfig({
         
       ],
     },
-    /* algolia: {
+    algolia: {
       indexName: 'midway-react-ssr',
-      appId: 'JUX5Q8NL56',
-      apiKey: 'ca6d7a7ea1955d40fa7ebbe9266d03c3'
-    }, */
+      appId: 'NDI7ZR18NH',
+      apiKey: '03fc060525a9c416db5cbc87115e48ce'
+    },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/lqsong/midway-react-ssr' },
     ],
